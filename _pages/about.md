@@ -10,7 +10,7 @@ redirect_from:
 
 2019 - current: The Ohio State University PhD Program in Mathematics (theoretical track)<br/> advised by [Professor Adriana Dawes](https://math.osu.edu/people/dawes.33). 
 
-Working papers/preprints
+Working papers and preprints
 ------
 Kravtsova, N. Asymptotic inference for Multimarginal Optimal Transport cost
 
