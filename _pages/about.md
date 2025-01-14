@@ -16,7 +16,8 @@ Kravtsova, N. (2024). k-Sample inference via Multimarginal Optimal Transport. *S
 [arXiv](https://arxiv.org/pdf/2501.05645)
 
 Kravtsova, N. (2024). The NP-hardness of the Gromov-Wasserstein distance.
-[arXiv](https://arxiv.org/abs/2408.06525)
+[arXiv](https://arxiv.org/abs/2408.06525) [codes](https://github.com/kravtsova2/GW_NPhard)
+
 
 Publications
 ------
