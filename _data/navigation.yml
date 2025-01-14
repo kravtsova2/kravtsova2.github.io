@@ -7,8 +7,8 @@ main:
   #- title: "Publication list (pdf)"
   #  url: /publist/  
 
-  #- title: "CV"
-  #  url: /cvpdf/
+  - title: "CV"
+    url: /cvpdf/
 
   #- title: "Teaching"
   #  url: /teaching/    
