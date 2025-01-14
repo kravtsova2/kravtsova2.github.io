@@ -21,6 +21,9 @@ Kravtsova, N. (2024). The NP-hardness of the Gromov-Wasserstein distance.
 
 Publications
 ------
+Plourde, S. M., Kravtsova, N., & Dawes, A. T. (2024). Asymmetry in centrosome maturation revealed through AIR-1 dynamics in the early *C. elegans* embryo.
+Accepted in *Scientific Reports*.
+
 Kravtsova, N., Chamberlin, H.M. & Dawes, A.T. (2023). Efficient parameter generation for constrained models using MCMC. *Scientific Reports* **13**, 16285. [journal](https://www.nature.com/articles/s41598-023-43433-y)
 
 Kravtsova, N., McGee II, R.L. & Dawes, A.T. (2023). Scalable Gromov–Wasserstein based comparison of biological time series. *Bulletin of Mathematical Biology* **85**, 77. [journal](https://link.springer.com/article/10.1007/s11538-023-01175-y) [codes](https://github.com/kravtsova2/GWtau) [slides](/files/SMB2023.pdf)
