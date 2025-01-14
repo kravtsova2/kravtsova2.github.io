@@ -12,7 +12,7 @@ redirect_from:
 
 Working papers and preprints
 ------
-Kravtsova, N. k-Sample inference via Multimarginal Optimal Transport
+Kravtsova, N. k-Sample inference via Multimarginal Optimal Transport. *Submitted*.
 [arXiv](https://arxiv.org/pdf/2501.05645)
 
 Publications
