@@ -14,7 +14,7 @@ redirect_from:
 
 Working papers and preprints
 ------
-Kravtsova, N. (2024). k-Sample inference via Multimarginal Optimal Transport. *Submitted*. 
+Kravtsova, N. (2024). k-Sample inference via Multimarginal Optimal Transport. *Submitted*. <br/>
 [arXiv](https://arxiv.org/abs/2501.05645) [slides](/files/SIAM2025.pdf)
 
 Kravtsova, N. (2024). The NP-hardness of the Gromov-Wasserstein distance.
