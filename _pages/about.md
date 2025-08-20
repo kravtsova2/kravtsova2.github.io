@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-2019 - current: The Ohio State University PhD Program in Mathematics (theoretical track)<br/> advised by [Professor Adriana Dawes](https://math.osu.edu/people/dawes.33). 
+
+2019 - 2025: PhD in Mathematics, The Ohio State University <br/> Adivisor: [Prof. Adriana Dawes](https://math.osu.edu/people/dawes.33). 
 
 Working papers and preprints
 ------
