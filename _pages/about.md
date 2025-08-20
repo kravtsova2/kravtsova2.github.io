@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-2025 - current: Postdoctoral Research Fellow, Department of Mathematics, The University of British Columbia <br> Supervisors: [Prof. Khanh Dao Duc](https://kdaoduc.com/), [Prof. Miranda Holmes](https://personal.math.ubc.ca/~holmescerfon/), and [Prof. Geoffrey Schiebinger](https://personal.math.ubc.ca/~geoff/)
+2025 - current: Postdoctoral Research Fellow, Department of Mathematics, The University of British Columbia <br> Supervisors: [Prof. Khanh Dao Duc](https://kdaoduc.com/), [Prof. Miranda Holmes-Cerfon](https://personal.math.ubc.ca/~holmescerfon/), and [Prof. Geoffrey Schiebinger](https://personal.math.ubc.ca/~geoff/)
 
 2019 - 2025: PhD in Mathematics, The Ohio State University <br/> Adivisor: [Prof. Adriana Dawes](https://math.osu.edu/people/dawes.33). 
 
