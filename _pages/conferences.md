@@ -4,6 +4,10 @@ title: "Conference/Seminar presentations"
 ---
 
 ------
+**The Third Joint SIAM/CAIMS Annual Meetings (AN25)** (Montreal, Canada) <br/>
+*k-Sample inference via Multimarginal Optimal Transport* (minisymposium talk)
+
+------
 **Tulane University Mathematics Department Seminar (November 2024)** (New Orleans, USA) <br/>
 *Two results in Optimal Transport with applications to biomedical data* (seminar talk)
 
