@@ -15,7 +15,7 @@ redirect_from:
 Working papers and preprints
 ------
 Kravtsova, N. (2024). k-Sample inference via Multimarginal Optimal Transport. *Submitted*. 
-[arXiv](https://arxiv.org/abs/2501.05645)
+[arXiv](https://arxiv.org/abs/2501.05645) [slides](/files/SIAM2025.pdf)
 
 Kravtsova, N. (2024). The NP-hardness of the Gromov-Wasserstein distance.
 [arXiv](https://arxiv.org/abs/2408.06525) [codes](https://github.com/kravtsova2/GW_NPhard)
@@ -24,7 +24,7 @@ Kravtsova, N. (2024). The NP-hardness of the Gromov-Wasserstein distance.
 Publications
 ------
 
-Plourde, S. M., Kravtsova, N., & Dawes, A. T. (2025). Asymmetry in centrosome maturation revealed through AIR-1 dynamics in the early *Caenorhabditis elegans* embryo. *Scientific Reports*, **15(1)**, 8667. [doi](https://www.nature.com/articles/s41598-025-86548-0).
+Plourde, S. M., Kravtsova, N., & Dawes, A. T. (2025). Asymmetry in centrosome maturation revealed through AIR-1 dynamics in the early *Caenorhabditis elegans* embryo. *Scientific Reports*, **15(1)**, 8667. [doi](https://www.nature.com/articles/s41598-025-86548-0)
 
 Kravtsova, N., Chamberlin, H.M. & Dawes, A.T. (2023). Efficient parameter generation for constrained models using MCMC. *Scientific Reports* **13**, 16285. [journal](https://www.nature.com/articles/s41598-023-43433-y)
 
