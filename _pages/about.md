@@ -20,8 +20,7 @@ Kravtsova, N. (2024). The NP-hardness of the Gromov-Wasserstein distance.
 
 Publications
 ------
-Kravtsova, N. (2025). k-Sample inference via Multimarginal Optimal Transport.  <br/> Accepted in *Electronic Journal of Statistics*.
-[arXiv](https://arxiv.org/abs/2501.05645) [slides](/files/SIAM2025.pdf)
+Kravtsova, N. (2025). k-Sample inference via Multimarginal Optimal Transport.  <br/> *Electronic Journal of Statistics*, 19(2), 4356-4400. [journal](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/k-sample-inference-via-multimarginal-optimal-transport/10.1214/25-EJS2439.full) [arXiv](https://arxiv.org/abs/2501.05645) [slides](/files/SIAM2025.pdf)
 
 Plourde, S. M., Kravtsova, N., & Dawes, A. T. (2025). Asymmetry in centrosome maturation revealed through AIR-1 dynamics in the early *Caenorhabditis elegans* embryo. *Scientific Reports*, 15(1), 8667. [doi](https://www.nature.com/articles/s41598-025-86548-0)
 
