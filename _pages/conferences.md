@@ -4,6 +4,10 @@ title: "Conference/Seminar presentations"
 ---
 
 ------
+**16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA 2026)** (W{\"u}rzburg, Germany) <br/>
+*upcoming*
+
+------
 **The Third Joint SIAM/CAIMS Annual Meetings (AN25)** (Montreal, Canada) <br/>
 *k-Sample inference via Multimarginal Optimal Transport* (talk in minisymposium “Optimal Transport in Natural and Data Sciences")
 
