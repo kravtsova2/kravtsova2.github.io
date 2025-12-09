@@ -4,7 +4,7 @@ title: "Conference/Seminar presentations"
 ---
 
 ------
-**16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA 2026)** (W{\"u}rzburg, Germany) <br/>
+**16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA 2026)** (Wurzburg, Germany) <br/>
 *upcoming*
 
 ------
