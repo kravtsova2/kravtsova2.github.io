@@ -5,7 +5,7 @@ title: "Conference/Seminar presentations"
 
 ------
 **16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA 2026)** (Wurzburg, Germany) <br/>
-*On the cut-offs of Optimal Transport based statistical tests* (talk in the session ``Inference in Wasserstein Spaces and Optimal Transport"), upcoming
+*On the cut-offs of Optimal Transport based statistical tests* (talk in the session “Inference in Wasserstein Spaces and Optimal Transport"), upcoming
 
 ------
 **The Third Joint SIAM/CAIMS Annual Meetings (AN25)** (Montreal, Canada) <br/>
