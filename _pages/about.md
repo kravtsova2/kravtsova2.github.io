@@ -14,7 +14,7 @@ redirect_from:
 
 Preprints
 ------
-Kravtsova, N. The NP-hardness of the Gromov-Wasserstein distance.
+Kravtsova, N. Note on computational complexity of the Gromov-Wasserstein distance.
 [arXiv](https://arxiv.org/abs/2408.06525) [codes](https://github.com/kravtsova2/GW_NPhard)
 
 
