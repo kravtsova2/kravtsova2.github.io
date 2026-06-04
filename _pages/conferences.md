@@ -4,8 +4,16 @@ title: "Conference/Seminar presentations"
 ---
 
 ------
+**Statistical Society of Canada 2026 Annual Meeting (SSC 2026)** (Hamilton, Canada) <br/>
+*On the cut-offs of Optimal Transport based statistical tests* (contributed talk in the session “New Investigator Presentation Award Competition in Probability and Statistics")
+
+------
 **16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA 2026)** (Wurzburg, Germany) <br/>
-*On the cut-offs of Optimal Transport based statistical tests* (talk in the session “Inference in Wasserstein Spaces and Optimal Transport"), upcoming
+*On the cut-offs of Optimal Transport based statistical tests* (talk in the session “Inference in Wasserstein Spaces and Optimal Transport")
+
+------
+**Kantorovich Initiative: KI-Retreat in Spring 2026** (Vancouver, Canada) <br/>
+*Whole organism lineage tracing from bulk RNA sequencing using Wasserstein barycenters* (talk)
 
 ------
 **The Third Joint SIAM/CAIMS Annual Meetings (AN25)** (Montreal, Canada) <br/>
