@@ -5,7 +5,7 @@ title: "Conference/Seminar presentations"
 
 ------
 **Statistical Society of Canada 2026 Annual Meeting (SSC 2026)** (Hamilton, Canada) <br/>
-*On the cut-offs of Optimal Transport based statistical tests* (contributed talk in the session “New Investigator Presentation Award Competition in Probability and Statistics")
+*On the cut-offs of Optimal Transport based statistical tests* (contributed talk in the session “New Investigator Presentation Award Competition in Probability and Statistics") <br/> The runner-up for the New Investigator Presentation Award.
 
 ------
 **16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA 2026)** (Wurzburg, Germany) <br/>
